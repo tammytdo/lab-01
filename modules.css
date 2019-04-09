@@ -1,0 +1,50 @@
+/* Modules are the reusable, modular parts of our design. They are the callouts, the sidebar sections, the product lists and so on. */
+
+
+div {
+  border: red solid 1px;
+  display: inline-flex;
+  text-align: center;
+  vertical-align: middle;
+}
+
+/* p {
+
+} */
+
+#a {
+  height: 75px;
+}
+
+#b {
+  height: 150px;
+}
+
+#c, #d {
+  height: 125px;
+}
+
+#e {
+  height: 250px;
+  width: 240px;
+}
+
+#f {
+  height: 250px;
+  width: 240px;
+}
+
+#g {
+  height: 250px;
+  width: 240px;
+
+}
+
+#h {
+  height: 250px;
+  width: 240px;
+}
+
+#i {
+  height: 80px;
+}
