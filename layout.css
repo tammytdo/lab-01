@@ -1,6 +1,6 @@
 /* Layout rules divide the page into sections. Layouts hold one or more modules together. */
 
-@media(max-width:700px){
+@media(max-width:767px){
 
   
   div{
@@ -9,7 +9,7 @@
   }
   
 }
-@media(min-width:700px){ 
+@media(min-width:768px){ 
   div {
     float: left;
   }
@@ -18,4 +18,47 @@
     margin: auto;
     width: 900px;
   }
+}
+
+
+
+/* p {
+
+} */
+
+#a {
+  height: 75px;
+}
+
+#b {
+  height: 150px;
+}
+
+#c, #d {
+  height: 125px;
+}
+
+#e {
+  height: 250px;
+  width: 240px;
+}
+
+#f {
+  height: 250px;
+  width: 240px;
+}
+
+#g {
+  height: 250px;
+  width: 240px;
+
+}
+
+#h {
+  height: 250px;
+  width: 240px;
+}
+
+#i {
+  height: 80px;
 }
